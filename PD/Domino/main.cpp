@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+//varianta 1 problema 1
 /*
  * Se consideră un şir de n piese de domino. O piesă de domino are formă dreptunghiulară şi are înscrisă pe ea două numere.
  * Conform regulilor la domino, un lanţ de piese este un subşir al şirului de piese iniţial constituit din piese care respectă următoarea condiţie: pentru oricare două piese consecutive din lanţ, al doilea număr înscris pe prima din cele două piese coincide cu primul număr înscris pe cea de a doua piesă (piesele nu se pot roti).
